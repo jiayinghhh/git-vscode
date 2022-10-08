@@ -1,1 +1,2 @@
 const str = 'hhh'
+test
